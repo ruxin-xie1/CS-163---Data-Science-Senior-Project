@@ -1,0 +1,13 @@
+dash
+joblib
+matplotlib
+dash-bootstrap-components
+plotly
+pandas
+Flask
+folium
+gunicorn
+google-cloud-storage
+scikit-survival
+requests
+numpy
